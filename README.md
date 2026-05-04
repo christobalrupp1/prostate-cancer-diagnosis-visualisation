@@ -39,7 +39,7 @@ No installation required. Download `index.html` and open it in any modern browse
 ## Authors
 
 Christobal Rupp — University of Mannheim  
-Supervised by [ichael Sternberg — Chair of General Management and Information Systems  
+Supervised by Michael Sternberg — Chair of General Management and Information Systems  
 
 ---
 
